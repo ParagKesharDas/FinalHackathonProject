@@ -1,0 +1,27 @@
+12:59:55.538 [main] INFO  pageObjects.LoanCalculatorPage - Loan Interest Input setted successfully
+12:59:56.956 [main] INFO  pageObjects.LoanCalculatorPage - Loan Tenure Input setted successfully
+12:59:58.339 [main] INFO  pageObjects.LoanCalculatorPage - Fees Input setted successfully
+13:00:03.934 [main] INFO  pageObjects.BasePage - validation Checked Successfully
+13:00:08.467 [main] INFO  pageObjects.LoanCalculatorPage - Year table expand
+13:00:08.473 [main] INFO  pageObjects.LoanCalculatorPage - Monthly Data extraction From Table failed due to java.lang.NullPointerException: Cannot invoke "org.apache.poi.xssf.usermodel.XSSFWorkbook.getSheetIndex(String)" because "this.workbook" is null
+13:00:08.474 [main] INFO  pageObjects.BasePage - *** Finishing TC_003_LoanCalculatorDDT :LoanCalculatorTest ***
+13:00:09.031 [main] INFO  pageObjects.BasePage - *** Starting TC_003_LoanCalculatorDDT : LoanAmountCalculatorTest ***
+13:00:10.591 [main] INFO  pageObjects.LoanCalculatorPage - Loan EMI Input setted successfully
+13:00:12.005 [main] INFO  pageObjects.LoanCalculatorPage - Loan Interest Input setted successfully
+13:00:13.338 [main] INFO  pageObjects.LoanCalculatorPage - Loan Tenure Input setted successfully
+13:00:14.782 [main] INFO  pageObjects.LoanCalculatorPage - Fees Input setted successfully
+13:00:20.002 [main] INFO  pageObjects.BasePage - validation Checked Successfully
+13:00:23.360 [main] INFO  pageObjects.LoanCalculatorPage - Year table expand
+13:00:23.366 [main] INFO  pageObjects.LoanCalculatorPage - Monthly Data extraction From Table failed due to java.lang.NullPointerException: Cannot invoke "org.apache.poi.xssf.usermodel.XSSFWorkbook.getSheetIndex(String)" because "this.workbook" is null
+13:00:23.366 [main] INFO  pageObjects.BasePage - *** Finishing TC_003_LoanCalculatorDDT :LoanAmountCalculatorTest ***
+13:00:24.009 [main] INFO  pageObjects.BasePage - *** Starting TC_003_LoanCalculatorDDT : LoanTentureCalculatorTest ***
+13:00:25.452 [main] INFO  pageObjects.LoanCalculatorPage - Loan Ammount Input setted successfully
+13:00:26.814 [main] INFO  pageObjects.LoanCalculatorPage - Loan EMI Input setted successfully
+13:00:28.168 [main] INFO  pageObjects.LoanCalculatorPage - Loan Interest Input setted successfully
+13:00:29.541 [main] INFO  pageObjects.LoanCalculatorPage - Fees Input setted successfully
+13:00:34.853 [main] INFO  pageObjects.BasePage - validation Checked Successfully
+13:00:37.128 [main] INFO  pageObjects.LoanCalculatorPage - Year table expand
+13:00:37.148 [main] INFO  pageObjects.LoanCalculatorPage - Monthly Data extraction From Table failed due to java.lang.NullPointerException: Cannot invoke "org.apache.poi.xssf.usermodel.XSSFWorkbook.getSheetIndex(String)" because "this.workbook" is null
+13:00:37.149 [main] INFO  pageObjects.BasePage - *** Finishing TC_003_LoanCalculatorDDT :LoanTentureCalculatorTest ***
+13:00:37.406 [main] INFO  pageObjects.BasePage - *** Starting TC_007_LoanCalculatorShareButtonTest :isShareBtnWorking ***
+13:00:39.631 [main] INFO  pageObjects.BasePage - Yes Working
